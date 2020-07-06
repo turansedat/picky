@@ -1,0 +1,15 @@
+[{
+    "title": "unit",
+    "symbol": "💯",
+    "keywords": "unittest"
+  },
+  {
+    "title": "integration",
+    "symbol": "🔢",
+    "keywords": "integration api"
+  },
+  {
+    "title": "acceptance",
+    "symbol": "😀",
+    "keywords": "acceptance system release"
+  }]
